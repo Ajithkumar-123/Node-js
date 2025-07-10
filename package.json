@@ -1,0 +1,11 @@
+{
+  "name": "sample-node-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app for AWS deployment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ajith",
+  "license": "ISC"
+}
